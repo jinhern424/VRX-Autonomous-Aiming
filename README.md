@@ -29,5 +29,5 @@ Follow these steps in separate terminals to launch the autonomous mission:
 
 ## 📊 Results
 The system utilizes YOLOv11 to detect dock targets (Yellow Circle, Blue Triangle) and maps pixel errors to gimbal joint commands for high-precision shooting.
-![YOLOv11 detect shapes](images/Screenshot from 2026-03-23 12-14-01.png)
+<img width="1532" height="860" alt="Screenshot from 2026-03-23 12-14-01" src="https://github.com/user-attachments/assets/a17a3b1d-699a-4487-860a-c42875e2041d" />
 
